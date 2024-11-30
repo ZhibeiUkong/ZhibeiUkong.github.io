@@ -1,16 +1,14 @@
 {
-  {
   "basics": {
     "name": "Jihan Yang",
     "label": "Student",
-    "image": "",
     "email": "jihany@uw.edu",
     "phone": "(206) 250-2132",
     "url": "https://zhibeiukong.github.io/",
-    "summary": "A passionate data science student with experience in machine learning, deep learning, and natural language processing, committed to solving real-world challenges through innovative AI solutions.",
+    "summary": "A highly motivated Data Science student with strong expertise in machine learning, natural language processing, and deep learning. Passionate about using technology to solve real-world challenges.",
     "location": {
-      "address": "4609 UNION BAY PL NE",
-      "postalCode": "WA 98105",
+      "address": "902 NE 43rd St",
+      "postalCode": "98105",
       "city": "Seattle",
       "countryCode": "US",
       "region": "Washington"
@@ -19,51 +17,10 @@
       {
         "network": "GitHub",
         "username": "JihanYang",
-        "url": "https://github.com/JihanYang"
+        "url": "https://zhibeiukong.github.io/"
       }
     ]
   },
-  "work": [
-    {
-      "name": "GreenView Floors International Inc.",
-      "position": "Data Analytics Intern",
-      "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-05-01",
-      "summary": "Applied machine learning and data science techniques to optimize user engagement strategies and drive business insights.",
-      "highlights": [
-        "Developed machine learning models to analyze customer interaction data.",
-        "Built predictive models using Python and TensorFlow to identify purchasing behaviors.",
-        "Automated data cleaning and analysis processes to reduce manual effort."
-      ]
-    },
-    {
-      "name": "University of Science and Technology of China",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2022-06-01",
-      "endDate": "2022-08-01",
-      "summary": "Conducted research in natural language processing to develop a dialect translation system.",
-      "highlights": [
-        "Designed and implemented a TensorFlow-based neural network for dialect translation.",
-        "Collected and standardized dialect-to-Mandarin comparison datasets.",
-        "Optimized model accuracy through iterative hyperparameter tuning."
-      ]
-    },
-    {
-      "name": "Neusoft Corporation",
-      "position": "Network Application Testing Intern",
-      "url": "",
-      "startDate": "2021-07-01",
-      "endDate": "2021-09-01",
-      "summary": "Automated testing for a car reservation system using Python, ensuring system reliability and robustness.",
-      "highlights": [
-        "Developed Python scripts to automate regression testing for critical modules.",
-        "Simulated user interactions and negative test cases using regular expressions.",
-        "Analyzed system logs to detect and resolve errors, improving overall reliability."
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Washington",
@@ -76,9 +33,49 @@
       "score": "3.86/4.00",
       "courses": [
         "INFO 103: Social Media, Ethics, and Automation",
+        "INFO 201: Foundational Skills for Data Science",
         "INFO 330: Databases and Data Modeling",
+        "INFO 352: Race, Gender, and Information",
         "INFO 360: Design Methods",
         "INFO 380: Product and Information System Management"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "GreenView Floors International Inc.",
+      "position": "Data Analytics Intern",
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "summary": "Applied machine learning techniques to analyze customer interaction data and optimize business strategies.",
+      "highlights": [
+        "Developed and implemented machine learning algorithms using Python and TensorFlow.",
+        "Automated data cleaning and clustering processes to improve data accessibility.",
+        "Collaborated with cross-functional teams to deliver actionable insights for user engagement."
+      ]
+    },
+    {
+      "name": "University of Science and Technology of China",
+      "position": "Research Assistant",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Led a research project on natural language processing to develop a dialect translation model.",
+      "highlights": [
+        "Designed a sequence-to-sequence neural network using TensorFlow.",
+        "Collected and standardized large volumes of text data for training and testing.",
+        "Improved model performance through iterative hyperparameter tuning."
+      ]
+    },
+    {
+      "name": "Neusoft Corporation",
+      "position": "Network Application Testing Intern",
+      "startDate": "2021-07-01",
+      "endDate": "2021-09-01",
+      "summary": "Automated testing of a car reservation system using Python to ensure reliability and robustness.",
+      "highlights": [
+        "Developed Python scripts to automate regression testing and simulate edge cases.",
+        "Validated logical interactions between modules and ensured compliance with business rules.",
+        "Enhanced system reliability by identifying and addressing errors through log analysis."
       ]
     }
   ],
@@ -87,40 +84,37 @@
       "title": "Dean's List",
       "date": "2024-06-01",
       "awarder": "University of Washington",
-      "summary": "Recognized for outstanding academic performance in multiple terms."
+      "summary": "Recognized for academic excellence in multiple terms."
     }
   ],
   "certificates": [
     {
       "name": "Python Specialization",
-      "date": "2024-01-01",
       "issuer": "Coursera",
-      "url": "",
-      "icon": "fa-solid fa-certificate"
+      "date": "2024-01-01"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "date": "2024-01-01"
     },
     {
       "name": "TensorFlow for Deep Learning",
-      "date": "2024-01-01",
       "issuer": "Coursera",
-      "url": "",
-      "icon": "fa-solid fa-certificate"
+      "date": "2024-01-01"
     }
   ],
-  "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Advanced",
-      "keywords": ["Python", "Java"]
+      "name": "Programming",
+      "keywords": ["Python", "Java", "SQL", "R"]
     },
     {
-      "name": "Data Science Tools",
-      "level": "Advanced",
-      "keywords": ["TensorFlow", "NumPy", "Pandas", "Matplotlib"]
+      "name": "Data Science",
+      "keywords": ["TensorFlow", "Scikit-learn", "NumPy", "Pandas"]
     },
     {
       "name": "Machine Learning",
-      "level": "Proficient",
       "keywords": ["Natural Language Processing", "Deep Learning", "Model Optimization"]
     }
   ],
@@ -141,4 +135,3 @@
     }
   ]
 }
-
